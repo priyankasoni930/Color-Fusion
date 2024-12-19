@@ -56,18 +56,19 @@ const colorPalettes: ColorPalette[] = [
     colors: ["#ffeeee", "#fff6ea", "#f7e9d7", "#ebd8c3"],
   },
   {
-    name: "Sunset Gradient",
-    likes: 777,
-    colors: [
-      "#001F3F",
-      "#003366",
-      "#1A237E",
-      "#800080",
-      "#FF69B4",
-      "#FF6B6B",
-      "#FFA500",
-      "#FFD700",
-    ],
+    name: "Ocean Blues",
+    likes: 554,
+    colors: ["#F0F8FF", "#B0C4DE", "#4682B4", "#000080"],
+  },
+  {
+    name: "Purple Dream",
+    likes: 489,
+    colors: ["#af92b5", "#8b7991", "#6f597a", "#624b6e", "#503d5c"],
+  },
+  {
+    name: "Blue Vibes",
+    likes: 367,
+    colors: ["#dfe2fe", "#b1cbfa", "#8e98f5", "#7971ea"],
   },
   {
     name: "Pastel Rainbow",
@@ -83,39 +84,38 @@ const colorPalettes: ColorPalette[] = [
     ],
   },
   {
-    name: "Moody Sunset",
-    likes: 642,
-    colors: ["#001F3F", "#4B0082", "#C71585", "#FF6B6B", "#FFA500"],
-  },
-  {
-    name: "Ocean Blues",
-    likes: 554,
-    colors: ["#F0F8FF", "#B0C4DE", "#4682B4", "#000080"],
-  },
-  {
-    name: "Purple Dream",
-    likes: 489,
-    colors: ["#af92b5", "#8b7991", "#6f597a", "#624b6e", "#503d5c"],
-  },
-  {
     name: "Soft Pastels",
     likes: 432,
     colors: ["#F2FCE2", "#FEF7CD", "#FEC6A1", "#E5DEFF", "#FFDEE2"],
   },
   {
-    name: "Vivid Mix",
-    likes: 398,
-    colors: ["#8B5CF6", "#D946EF", "#F97316", "#0EA5E9"],
-  },
-  {
-    name: "Blue Vibes",
-    likes: 367,
-    colors: ["#dfe2fe", "#b1cbfa", "#8e98f5", "#7971ea"],
-  },
-  {
     name: "Earth Tones",
     likes: 345,
     colors: ["#8E9196", "#A67B5B", "#C4A484", "#483C32", "#6B4423"],
+  },
+  {
+    name: "Sunset Gradient",
+    likes: 777,
+    colors: [
+      "#001F3F",
+      "#003366",
+      "#1A237E",
+      "#800080",
+      "#FF69B4",
+      "#FF6B6B",
+      "#FFA500",
+      "#FFD700",
+    ],
+  },
+  {
+    name: "Moody Sunset",
+    likes: 642,
+    colors: ["#001F3F", "#4B0082", "#C71585", "#FF6B6B", "#FFA500"],
+  },
+  {
+    name: "Vivid Mix",
+    likes: 398,
+    colors: ["#8B5CF6", "#D946EF", "#F97316", "#0EA5E9"],
   },
   {
     name: "Neon Nights",
