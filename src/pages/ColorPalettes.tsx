@@ -90,7 +90,7 @@ const colorPalettes: ColorPalette[] = [
   {
     name: "Purple Dream",
     likes: 489,
-    colors: ["#9b87f5", "#7E69AB", "#6E59A5", "#1A1F2C", "#D6BCFA"],
+    colors: ["#af92b5", "#8b7991", "#6f597a", "#624b6e", "#503d5c"],
   },
   {
     name: "Soft Pastels",
