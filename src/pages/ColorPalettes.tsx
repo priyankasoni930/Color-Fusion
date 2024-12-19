@@ -105,7 +105,7 @@ const colorPalettes: ColorPalette[] = [
   {
     name: "Blue Vibes",
     likes: 367,
-    colors: ["#403E43", "#1EAEDB", "#221F26", "#33C3F0", "#0FA0CE"],
+    colors: ["#dfe2fe", "#b1cbfa", "#8e98f5", "#7971ea"],
   },
   {
     name: "Earth Tones",
