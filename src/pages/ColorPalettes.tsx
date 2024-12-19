@@ -26,9 +26,9 @@ const colorPalettes: ColorPalette[] = [
     colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
   },
   {
-    name: "Pastel Vibes",
+    name: "Forest Breeze",
     likes: 784,
-    colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
+    colors: ["#f1ddbf", "#525e75", "#78938a", "#92ba92"],
   },
   {
     name: "Pastel Vibes",
