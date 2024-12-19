@@ -26,6 +26,31 @@ const colorPalettes: ColorPalette[] = [
     colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
   },
   {
+    name: "Pastel Vibes",
+    likes: 784,
+    colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
+  },
+  {
+    name: "Pastel Vibes",
+    likes: 784,
+    colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
+  },
+  {
+    name: "Pastel Vibes",
+    likes: 784,
+    colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
+  },
+  {
+    name: "Pastel Vibes",
+    likes: 784,
+    colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
+  },
+  {
+    name: "Pastel Vibes",
+    likes: 784,
+    colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
+  },
+  {
     name: "Sunset Gradient",
     likes: 777,
     colors: [
