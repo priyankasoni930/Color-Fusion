@@ -41,9 +41,9 @@ const colorPalettes: ColorPalette[] = [
     colors: ["#edf2fa", "#d7e3fc", "#ccdbfd", "#c1d3fe", "#abc4ff"],
   },
   {
-    name: "Pastel Vibes",
+    name: "Earthly",
     likes: 784,
-    colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
+    colors: ["#d9d0b4", "#7d6b57", "#879e82", "#666b5e"],
   },
   {
     name: "Pastel Vibes",
