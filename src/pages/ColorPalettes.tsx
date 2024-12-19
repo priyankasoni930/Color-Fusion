@@ -51,7 +51,7 @@ const colorPalettes: ColorPalette[] = [
     colors: ["#d9d0b4", "#7d6b57", "#879e82", "#666b5e"],
   },
   {
-    name: "",
+    name: "Creamish",
     likes: 784,
     colors: ["#ffeeee", "#fff6ea", "#f7e9d7", "#ebd8c3"],
   },
