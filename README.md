@@ -1,12 +1,5 @@
 
 
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/8fbeb26c-1026-4e5c-824a-40e0622694f6) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
