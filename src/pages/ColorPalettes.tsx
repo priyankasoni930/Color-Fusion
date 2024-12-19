@@ -30,6 +30,11 @@ const colorPalettes: ColorPalette[] = [
     likes: 784,
     colors: ["#f1ddbf", "#525e75", "#78938a", "#92ba92"],
   },
+   {
+    name: "Snow Solitude",
+    likes: 784,
+    colors: ["#e1e4e8", "#939ca3", "#646f77", "#b5bdc4", "#aeb4ac"],
+  },
   {
     name: "Celestial Sea",
     likes: 784,
