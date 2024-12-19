@@ -46,9 +46,9 @@ const colorPalettes: ColorPalette[] = [
     colors: ["#d9d0b4", "#7d6b57", "#879e82", "#666b5e"],
   },
   {
-    name: "Pastel Vibes",
+    name: "",
     likes: 784,
-    colors: ["#E6F0FF", "#E0FFFF", "#FFF5EE", "#FFE4E1", "#E6E6FA"],
+    colors: ["#ffeeee", "#fff6ea", "#f7e9d7", "#ebd8c3"],
   },
   {
     name: "Sunset Gradient",
